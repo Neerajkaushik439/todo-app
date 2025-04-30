@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 input{
   width: 20%;
   height: 25px;
@@ -24,3 +25,31 @@ input{
   right: 3px;
 }
 
+=======
+input{
+  width: 20%;
+  height: 25px;
+}
+
+
+
+
+.cross {
+  height: 17px !important;
+  width: 17px ; /* Ensures the width is applied */
+  margin-left: 10px;
+}
+
+
+/* .li:hover.cross{
+  display: inline-block;
+} */
+#logo{
+  height: 200px;
+  width: 200px;
+  position: fixed;
+  bottom: 2px;
+  right: 3px;
+}
+
+>>>>>>> 0f896483d16cb02c2a342ffe4abd5e2180ca5451
